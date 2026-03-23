@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yves 👋
 
-<!--
-**yveskapinga/yveskapinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Industrial Systems & Data Engineer
 
-Here are some ideas to get you started:
+I build scalable systems, APIs, and data-driven applications with a strong background in industrial operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* JavaScript (Node.js, Express)
+* PHP (Symfony, Laravel)
+* React / Vue.js
+* MySQL / PostgreSQL
+* REST APIs
+
+## 🚀 What I Do
+
+* Build full-stack applications
+* Design backend systems and APIs
+* Develop data-driven solutions
+* Optimize industrial processes using data
+
+## 🌍 Open to
+
+Remote full-stack or backend opportunities
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/yves-kayembe-374b5915b
+* Email: [yveskapinga@gmail.com](mailto:yveskapinga@gmail.com)
