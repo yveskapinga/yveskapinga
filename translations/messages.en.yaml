@@ -1,0 +1,211 @@
+meta:
+  title: "Yves Kayembe | Portfolio"
+  switch_fr: "Version francaise"
+  switch_en: "English version"
+nav:
+  aria: "Main navigation"
+  top: "Top"
+  about: "Profile"
+  experience: "Experience"
+  projects: "Projects"
+  credentials: "Credentials"
+  contact: "Contact"
+hero:
+  contact_email: "Contact me by email"
+  contact_phone: "Contact me by phone"
+  eyebrow: "Industrial Systems & Data Engineer"
+  name: "Yves Kayembe"
+  role: "Full-Stack Developer | Lean Six Sigma Black Belt"
+  intro: "I design and ship business applications, data-driven platforms, and operational tools that turn complex field requirements into reliable, measurable, production-ready systems."
+  location: "Kolwezi, DR Congo (Open to Remote)"
+  download_cv: "Download CV"
+  cta: "View projects"
+  photo_alt: "Portrait of Yves Kayembe"
+  highlights:
+    1: "8+ years across software engineering, data, and industrial operations"
+    2: "Multiple business applications already deployed in production"
+    3: "Strong ability to connect field constraints, architecture, and business impact"
+metrics:
+  items:
+    1:
+      value: "8+"
+      label: "years of hybrid experience"
+    2:
+      value: "7+"
+      label: "production applications highlighted"
+    3:
+      value: "40%"
+      label: "workflow reduction achieved on some automations"
+positioning:
+  items:
+    1:
+      kicker: "Product strategy"
+      title: "Tools designed to last"
+      body: "I build applications that go beyond a demo: they need to be usable, maintainable, and adaptable to real operational environments."
+    2:
+      kicker: "Execution"
+      title: "A results-oriented approach"
+      body: "I start from operational friction points, structure the need clearly, and deliver solutions that simplify execution and decision-making."
+    3:
+      kicker: "Trust"
+      title: "Rigor with pragmatism"
+      body: "My industrial background leads me to prioritize clarity, reliable data, and robust workflows over unnecessary complexity."
+profile:
+  label: "Executive profile"
+  title: "Hybrid profile with execution focus"
+  summary: "Comfortable across industrial operations, full-stack delivery, data analysis, and compliance requirements, I build products that remain usable for teams and reliable for decision-makers."
+  facts:
+    1: "Full-stack: Symfony, Laravel, Node.js, React, Vue.js"
+    2: "Data and operations: KPI tracking, quality control, reporting, variance analysis"
+    3: "Industry: ISO 9001, 14001, 45001, Lean Six Sigma"
+summary:
+  title: "Professional Summary"
+  body: "My hybrid background allows me to understand technical constraints, compliance expectations, and operational realities at the same time. I build solutions that improve performance, data reliability, decision-making, and execution efficiency. I am currently pursuing an MBA focused on digital transformation, system optimization, and scalable technology solutions."
+  quote: "I do not just build features. I design systems that are useful, understandable, and deployable in environments where execution truly matters."
+delivery:
+  title: "How I deliver"
+  items:
+    1: "Clarify processes before writing code"
+    2: "Turn business constraints into simple, usable workflows"
+    3: "Prioritize operational impact over surface-level polish"
+skills:
+  title: "Core Skills"
+  items:
+    1: "JavaScript (Node.js, Express)"
+    2: "PHP (Symfony, Laravel)"
+    3: "Frontend (React / Vue.js)"
+    4: "REST API development"
+    5: "SQL (MySQL, PostgreSQL)"
+    6: "System architecture & deployment"
+    7: "Data analysis & performance monitoring"
+    8: "ISO standards (9001, 14001, 45001)"
+    9: "Lean Six Sigma (Black Belt)"
+experience:
+  title: "Professional Experience"
+  items:
+    1:
+      title: "Lead Auditor (Freelance)"
+      period: "Feb 2026 - Present"
+      body: "Conduct ISO 9001, 14001, and 45001 audits, identify operational risks and compliance gaps, and deliver actionable improvement plans."
+    2:
+      title: "Final Product & Monitoring Inspector - Kamoto Copper Company (KCC)"
+      period: "May 2025 - Present"
+      body: "Monitor metallurgical KPIs such as grade, recovery, and yield, analyze data discrepancies, and improve reporting reliability and accuracy."
+    3:
+      title: "System Developer - Success Globally Company"
+      period: "Sep 2023 - Present"
+      body: "Designed and deployed internal management systems, built full-stack applications, automated workflows by up to 40%, and improved backend scalability."
+    4:
+      title: "Consultant - Mining & Environmental Analysis, Mitra SK"
+      period: "Mar 2022 - Mar 2024"
+      body: "Expanded operations in DR Congo, trained teams in environmental analysis, and managed recruitment and field operations."
+    5:
+      title: "Quality Assurance Inspector - Kamoto Copper Company (KCC)"
+      period: "Sep 2018 - 2025"
+      body: "Ensured compliance with international production standards, monitored quality indicators, and contributed to continuous improvement initiatives."
+    6:
+      title: "Administrator - Action pour la Protection de l'Environnement (NGO)"
+      period: "2016 - Present"
+      body: "Led environmental impact projects and supported organizational field operations."
+    7:
+      title: "Software Trainer & System Designer - Star Business International"
+      period: "2016 - 2017"
+      body: "Delivered software training and designed applications supporting business processes."
+    8:
+      title: "Data Analyst - Knight Piesold Consulting"
+      period: "2015 - 2016"
+      body: "Designed databases and analytical reports to support operational decision-making."
+    9:
+      title: "Intern - Chemical Analysis, Office Congolais de Controle (OCC)"
+      period: "2015"
+      body: "Conducted laboratory analysis and quality control support."
+projects:
+  eyebrow: "Selected work"
+  title: "Production applications and business platforms"
+  intro: "A representative selection of business applications and platforms delivered for operations, compliance, decision support, and service management."
+  items:
+    1:
+      kicker: "Industry"
+      title: "Industrial Monitoring System"
+      body: "Built a full-stack dashboard to track production KPIs, visualize grade, recovery, and yield, and support operational decision-making."
+      outcome: "Outcome: clearer visibility on critical indicators for metallurgical monitoring and field decisions."
+    2:
+      kicker: "Compliance"
+      title: "Normind"
+      body: "Decision-support application for non-conformity management, designed for auditors and quality teams with workflow, decision, and reporting logic."
+      outcome: "Outcome: a more structured, traceable, and auditable non-conformity handling process."
+    3:
+      kicker: "Mobility"
+      title: "TaxApp"
+      body: "Taxi fleet management application supporting operational follow-up, service organization, and day-to-day business workflows."
+      outcome: "Outcome: better organization of fleet monitoring, activities, and day-to-day service operations."
+    4:
+      kicker: "Distribution"
+      title: "Mayigo"
+      body: "Ordering and potable water distribution application for retail points, built around the realities of local availability and fulfillment."
+      outcome: "Outcome: smoother coordination between ordering, product availability, and point-of-sale distribution."
+    5:
+      kicker: "Community"
+      title: "Bilan"
+      body: "Spiritual application designed for faithful sacrificers, with a user journey adapted to the community's practices and needs."
+      outcome: "Outcome: a more accessible experience aligned with the specific needs of the target community."
+    6:
+      kicker: "Data and APIs"
+      title: "Analytics APIs and custom business tools"
+      body: "A broader set of APIs and tailored applications for performance computation, anomaly detection, workflow automation, and business operations."
+      outcome: "Outcome: stronger automation, more reliable calculations, and a better foundation for operational decisions."
+    7:
+      kicker: "Real-time monitoring"
+      title: "Liso"
+      body: "Real-time production parameter monitoring application for the mining industry, integrating physical equipment for direct parameter capture and an interactive dashboard for automated reporting."
+      outcome: "Outcome: immediate visibility of critical parameters, faster operational reaction time, and automated reporting for production and supervision teams."
+education:
+  title: "Education"
+  items:
+    1:
+      title: "MBA - Business Administration (Ongoing)"
+      body: "UNICAF University"
+    2:
+      title: "Bachelor's Degree in Industrial Chemistry"
+      body: "University of Lubumbashi - 2016"
+cert:
+  highlight_label: "Featured credential"
+  highlight_title: "Lead Auditor ISO 9001 / 14001 / 45001"
+  highlight_text: "Certified in integrated management system auditing with a strong focus on operational rigor, compliance, and improvement planning."
+  highlight_alt: "Lead Auditor certificate"
+  link: "View certificate"
+certifications:
+  title: "Certifications"
+  items:
+    1: "Lead Auditor ISO 9001 / 14001 / 45001 - 2026"
+    2: "Lean Six Sigma Black Belt - 2022"
+    3: "Lean Six Sigma Green Belt - 2022"
+    4: "ISO 9001 Quality Management - 2023"
+    5: "PHP Developer - 2023"
+    6: "Entrepreneurship & SME Management - 2023"
+languages:
+  title: "Languages"
+  items:
+    1: "English - Professional working proficiency"
+    2: "French - Native"
+    3: "Swahili & Lingala - Native"
+strengths:
+  title: "Key Strengths"
+  items:
+    1: "Strong hybrid profile: Technology + Industry + Data"
+    2: "Experience in high-stakes production environments"
+    3: "Ability to translate business needs into technical solutions"
+    4: "Focus on performance, scalability, and impact"
+documents:
+  title: "Documents"
+  body: "Access the French and English CV versions directly from the portfolio, along with the certificate when needed."
+  download_fr: "Download French CV"
+  download_en: "Download English CV"
+  view_certificate: "View certificate"
+contact:
+  title: "Let's build systems that are useful, reliable, and ready for production"
+  body: "I work on products that need to remain useful over time, support real operations, and produce concrete outcomes. For a mission, a business product, or a remote collaboration, the starting point can be simple: clarify the need, design precisely, and deliver cleanly."
+  email: "Contact me"
+  github: "View GitHub"
+footer:
+  note: "Bilingual portfolio built with Symfony, anchor-based navigation, and content framed around product impact and operational execution."

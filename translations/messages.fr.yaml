@@ -1,0 +1,211 @@
+meta:
+  title: "Yves Kayembe | Portfolio"
+  switch_fr: "Version française"
+  switch_en: "English version"
+nav:
+  aria: "Navigation principale"
+  top: "Accueil"
+  about: "Profil"
+  experience: "Expérience"
+  projects: "Projets"
+  credentials: "Parcours"
+  contact: "Contact"
+hero:
+  contact_email: "Contactez-moi par email"
+  contact_phone: "Contactez-moi par téléphone"
+  eyebrow: "Ingénieur en systèmes industriels et data"
+  name: "Yves Kayembe"
+  role: "Développeur Full-Stack | Lean Six Sigma Black Belt"
+  intro: "Je conçois et mets en production des applications métier, des plateformes data-driven et des outils de pilotage qui transforment des besoins opérationnels complexes en solutions robustes, mesurables et utiles au terrain."
+  location: "Kolwezi, RDC (Ouvert au remote)"
+  download_cv: "Télécharger le CV"
+  cta: "Voir les projets"
+  photo_alt: "Portrait de Yves Kayembe"
+  highlights:
+    1: "8+ ans entre développement logiciel, data et opérations industrielles"
+    2: "Applications métier déployées en production dans plusieurs contextes"
+    3: "Forte capacité à relier exigences terrain, architecture et impact business"
+metrics:
+  items:
+    1:
+      value: "8+"
+      label: "ans d'expérience hybride"
+    2:
+      value: "7+"
+      label: "applications citées en production"
+    3:
+      value: "40 %"
+      label: "de réduction sur certains workflows automatisés"
+positioning:
+  items:
+    1:
+      kicker: "Stratégie produit"
+      title: "Des outils pensés pour durer"
+      body: "Je construis des applications qui ne se limitent pas à une démo: elles doivent être utilisables, maintenables et adaptables à la réalité terrain."
+    2:
+      kicker: "Exécution"
+      title: "Une approche orientée résultat"
+      body: "Je pars des irritants opérationnels, je structure le besoin, puis je livre des solutions capables de simplifier l'exécution et la prise de décision."
+    3:
+      kicker: "Confiance"
+      title: "Entre rigueur et pragmatisme"
+      body: "Mon expérience industrielle m'amène à privilégier la clarté, la fiabilité des données et la robustesse des workflows plutôt que la complexité inutile."
+profile:
+  label: "Executive profile"
+  title: "Profil hybride, orienté exécution"
+  summary: "À l'aise entre environnement industriel, développement full-stack, data analyse et exigences de conformité, je livre des produits qui restent lisibles pour les équipes et fiables pour la direction."
+  facts:
+    1: "Full-stack: Symfony, Laravel, Node.js, React, Vue.js"
+    2: "Data et pilotage: KPI, contrôle qualité, reporting, analyse d'écarts"
+    3: "Industrie: ISO 9001, 14001, 45001, Lean Six Sigma"
+summary:
+  title: "Résumé professionnel"
+  body: "Mon parcours hybride me permet de comprendre à la fois les contraintes techniques, les exigences de conformité et la réalité opérationnelle. Je développe des solutions qui servent la performance, la fiabilité des données, la prise de décision et l'efficacité des équipes. Je poursuis actuellement un MBA avec un focus sur la transformation digitale, l'optimisation des systèmes et la croissance de solutions technologiques évolutives."
+  quote: "Je ne développe pas seulement des fonctionnalités: je conçois des systèmes utiles, compréhensibles et déployables dans des environnements où l'exécution compte vraiment."
+delivery:
+  title: "Ma façon de livrer"
+  items:
+    1: "Clarifier les processus avant d'écrire le code"
+    2: "Transformer les contraintes métier en parcours simples et exploitables"
+    3: "Chercher l'impact opérationnel avant l'effet de vitrine"
+skills:
+  title: "Compétences clés"
+  items:
+    1: "JavaScript (Node.js, Express)"
+    2: "PHP (Symfony, Laravel)"
+    3: "Frontend (React / Vue.js)"
+    4: "Développement d'API REST"
+    5: "SQL (MySQL, PostgreSQL)"
+    6: "Architecture système et déploiement"
+    7: "Analyse de données et suivi de performance"
+    8: "Normes ISO (9001, 14001, 45001)"
+    9: "Lean Six Sigma (Black Belt)"
+experience:
+  title: "Expérience professionnelle"
+  items:
+    1:
+      title: "Auditeur principal (Freelance)"
+      period: "Fév 2026 - Aujourd'hui"
+      body: "Réalisation d'audits ISO 9001, 14001 et 45001, identification des risques opérationnels et des écarts de conformité, et proposition de plans d'amélioration actionnables."
+    2:
+      title: "Inspecteur produit final et suivi - Kamoto Copper Company (KCC)"
+      period: "Mai 2025 - Aujourd'hui"
+      body: "Suivi des KPI métallurgiques tels que la teneur, la récupération et le rendement, analyse des écarts de données, et amélioration de la fiabilité des rapports."
+    3:
+      title: "Développeur système - Success Globally Company"
+      period: "Sep 2023 - Aujourd'hui"
+      body: "Conception et déploiement de systèmes de gestion internes, développement d'applications full-stack, automatisation des workflows jusqu'à 40 %, et amélioration de la scalabilité backend."
+    4:
+      title: "Consultant - Analyse minière et environnementale, Mitra SK"
+      period: "Mar 2022 - Mar 2024"
+      body: "Développement des opérations en RDC, formation des équipes à l'analyse environnementale, et gestion du recrutement et des opérations terrain."
+    5:
+      title: "Inspecteur assurance qualité - Kamoto Copper Company (KCC)"
+      period: "Sep 2018 - 2025"
+      body: "Garantie de conformité aux standards internationaux de production, suivi des indicateurs qualité, et contribution à l'amélioration continue."
+    6:
+      title: "Administrateur - Action pour la Protection de l'Environnement (ONG)"
+      period: "2016 - Aujourd'hui"
+      body: "Pilotage de projets d'impact environnemental et appui aux opérations de terrain."
+    7:
+      title: "Formateur logiciel et concepteur système - Star Business International"
+      period: "2016 - 2017"
+      body: "Animation de formations logicielles et conception d'applications pour les processus business."
+    8:
+      title: "Analyste de données - Knight Piesold Consulting"
+      period: "2015 - 2016"
+      body: "Conception de bases de données et de rapports analytiques pour soutenir les décisions opérationnelles."
+    9:
+      title: "Stagiaire - Analyse chimique, Office Congolais de Contrôle (OCC)"
+      period: "2015"
+      body: "Réalisation d'analyses de laboratoire et support au contrôle qualité."
+projects:
+  eyebrow: "Sélection récente"
+  title: "Applications et plateformes déjà déployées"
+  intro: "Voici une sélection représentative d'applications métier et de produits déployés pour la gestion, la conformité, l'opérationnel et l'aide à la décision."
+  items:
+    1:
+      kicker: "Industrie"
+      title: "Système de suivi industriel"
+      body: "Tableau de bord full-stack pour suivre les KPI de production, visualiser la teneur, la récupération et le rendement, et soutenir les arbitrages opérationnels."
+      outcome: "Résultat: meilleure lisibilité des indicateurs critiques pour le suivi métallurgique et la décision terrain."
+    2:
+      kicker: "Conformité"
+      title: "Normind"
+      body: "Application d'aide à la décision pour les non-conformités, conçue pour les auditeurs et les équipes qualité avec logique de suivi, arbitrage et reporting."
+      outcome: "Résultat: processus de traitement des non-conformités plus structuré, plus traçable et plus défendable en audit."
+    3:
+      kicker: "Mobilité"
+      title: "TaxApp"
+      body: "Application de gestion de flotte de taxi avec gestion opérationnelle, suivi des activités et structuration des processus de service."
+      outcome: "Résultat: meilleure organisation du suivi de flotte, des activités et des opérations quotidiennes."
+    4:
+      kicker: "Distribution"
+      title: "Mayigo"
+      body: "Application de commande et de distribution d'eau potable dans les points de vente, avec logique métier adaptée à la disponibilité et à la distribution."
+      outcome: "Résultat: meilleure fluidité entre commande, disponibilité produit et distribution au point de vente."
+    5:
+      kicker: "Communautaire"
+      title: "Bilan"
+      body: "Application spirituelle conçue pour les fidèles sacrificateurs, avec parcours fonctionnel adapté aux usages de la communauté."
+      outcome: "Résultat: expérience plus accessible et mieux alignée sur les besoins spécifiques de la communauté ciblée."
+    6:
+      kicker: "Data et API"
+      title: "APIs d'analyse et outils métier"
+      body: "Ensemble d'APIs et d'applications sur mesure pour le calcul de performance, la détection d'anomalies, l'automatisation et le pilotage métier."
+      outcome: "Résultat: automatisation accrue, calculs plus fiables et meilleure base pour les décisions opérationnelles."
+    7:
+      kicker: "Monitoring temps réel"
+      title: "Liso"
+      body: "Application de monitoring en temps réel des paramètres de production pour l'industrie minière, avec intégration d'équipements physiques pour la capture intégrée des données et dashboard interactif pour reporting automatique."
+      outcome: "Résultat: visibilité immédiate des paramètres critiques, réduction du délai de réaction et reporting automatisé pour les équipes de production et de supervision."
+education:
+  title: "Formation"
+  items:
+    1:
+      title: "MBA - Business Administration (en cours)"
+      body: "UNICAF University"
+    2:
+      title: "Licence en chimie industrielle"
+      body: "Université de Lubumbashi - 2016"
+cert:
+  highlight_label: "Certification mise en avant"
+  highlight_title: "Lead Auditor ISO 9001 / 14001 / 45001"
+  highlight_text: "Certification en audit des systèmes de management intégrés, avec un fort accent sur la rigueur opérationnelle, la conformité et les plans d'amélioration."
+  highlight_alt: "Certificat Lead Auditor"
+  link: "Voir le certificat"
+certifications:
+  title: "Certifications"
+  items:
+    1: "Lead Auditor ISO 9001 / 14001 / 45001 - 2026"
+    2: "Lean Six Sigma Black Belt - 2022"
+    3: "Lean Six Sigma Green Belt - 2022"
+    4: "ISO 9001 Quality Management - 2023"
+    5: "Développeur PHP - 2023"
+    6: "Entrepreneuriat & gestion des PME - 2023"
+languages:
+  title: "Langues"
+  items:
+    1: "Anglais - Niveau professionnel"
+    2: "Français - Langue maternelle"
+    3: "Swahili & Lingala - Langues maternelles"
+strengths:
+  title: "Points forts"
+  items:
+    1: "Profil hybride fort: Technologie + Industrie + Data"
+    2: "Expérience dans des environnements de production à fort enjeu"
+    3: "Capacité à traduire les besoins business en solutions techniques"
+    4: "Orientation performance, scalabilité et impact"
+documents:
+  title: "Documents"
+  body: "Accédez directement aux versions française et anglaise du CV, ainsi qu'au certificat si besoin."
+  download_fr: "Télécharger le CV français"
+  download_en: "Télécharger le CV anglais"
+  view_certificate: "Voir le certificat"
+contact:
+  title: "Construisons des systèmes utiles, fiables et déployables"
+  body: "Je travaille sur des produits qui doivent tenir dans le temps, supporter l'opérationnel et produire des résultats concrets. Pour une mission, un produit métier ou une collaboration remote, le point de départ peut être simple: clarifier le besoin, concevoir juste, livrer proprement."
+  email: "Me contacter"
+  github: "Voir GitHub"
+footer:
+  note: "Portfolio bilingue conçu avec Symfony, structure de navigation par ancres, et contenu orienté impact produit et exécution terrain."
