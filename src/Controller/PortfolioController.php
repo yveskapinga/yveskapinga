@@ -29,14 +29,12 @@ final class PortfolioController extends AbstractController
         }
 
         $request->setLocale($locale);
-    $request->attributes->set('_locale', $locale);
-    $this->translator->setLocale($locale);
+        $request->attributes->set('_locale', $locale);
+        $this->translator->setLocale($locale);
 
         return $this->render('portfolio/index.html.twig', [
             'locale' => $locale,
             'switchLocale' => $locale === 'fr' ? 'en' : 'fr',
-            'cvEnPath' => 'documents/Yves_Kayembe_CV_en.pdf',
-            'cvFrPath' => 'documents/Yves_Kayembe_CV_fr.pdf',
         ]);
     }
 }

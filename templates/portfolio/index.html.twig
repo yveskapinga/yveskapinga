@@ -57,7 +57,7 @@
                         <a href="https://github.com/yveskapinga" target="_blank" rel="noopener noreferrer">github.com/yveskapinga</a>
                     </div>
                     <div class="hero__actions">
-                        <a class="btn" href="{{ asset(locale == 'fr' ? cvFrPath : cvEnPath) }}" target="_blank" rel="noopener noreferrer">{{ 'hero.download_cv'|trans }}</a>
+                        <a class="btn" href="{{ locale == 'fr' ? '/documents/Yves_Kayembe_CV_fr.pdf' : '/documents/Yves_Kayembe_CV_en.pdf' }}" target="_blank" rel="noopener noreferrer">{{ 'hero.download_cv'|trans }}</a>
                         <a class="btn btn--secondary" href="#projects">{{ 'hero.cta'|trans }}</a>
                     </div>
                     <div class="metrics-grid">
@@ -77,7 +77,7 @@
                 </div>
                 <aside class="hero__side">
                     <article class="profile-card" data-reveal>
-                        <img class="profile-card__avatar" src="{{ asset('pictures/photo_profil.jpg') }}" alt="{{ 'hero.photo_alt'|trans }}">
+                        <img class="profile-card__avatar" src="/pictures/photo_profil.jpg" alt="{{ 'hero.photo_alt'|trans }}">
                         <div class="profile-card__body">
                             <p class="profile-card__label">{{ 'profile.label'|trans }}</p>
                             <h2>{{ 'profile.title'|trans }}</h2>
@@ -231,8 +231,8 @@
                     <h2>{{ 'documents.title'|trans }}</h2>
                     <p>{{ 'documents.body'|trans }}</p>
                     <div class="documents__actions">
-                        <a class="btn" href="{{ asset(cvFrPath) }}" target="_blank" rel="noopener noreferrer">{{ 'documents.download_fr'|trans }}</a>
-                        <a class="btn btn--outline" href="{{ asset(cvEnPath) }}" target="_blank" rel="noopener noreferrer">{{ 'documents.download_en'|trans }}</a>
+                        <a class="btn" href="/documents/Yves_Kayembe_CV_fr.pdf" target="_blank" rel="noopener noreferrer">{{ 'documents.download_fr'|trans }}</a>
+                        <a class="btn btn--outline" href="/documents/Yves_Kayembe_CV_en.pdf" target="_blank" rel="noopener noreferrer">{{ 'documents.download_en'|trans }}</a>
                         <button class="btn btn--outline" data-cert-trigger="lead-auditor">{{ 'documents.view_certificate'|trans }}</button>
                     </div>
                 </article>
@@ -262,7 +262,7 @@
             <div class="certificate-modal__content">
                 <button class="certificate-modal__close" data-cert-close aria-label="Fermer"></button>
                 <div class="certificate-modal__image-container">
-                    <img class="certificate-modal__image" src="{{ asset('pictures/lead_auditor_certificate.jpg') }}" alt="Certificat Lead Auditor" draggable="false" />
+                    <img class="certificate-modal__image" src="/pictures/lead_auditor_certificate.jpg" alt="Certificat Lead Auditor" draggable="false" />
                 </div>
             </div>
         </div>
